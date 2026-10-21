@@ -81,6 +81,6 @@ class Main {
       return "portable network graphics";
     }
     else{
-      return "idk";
+      return "idk"
     }
 }
